@@ -1,0 +1,28 @@
+.formsContainer{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: none;
+}
+.backgroundImage{
+    width: 100vw;
+    height: 100vw;
+    background-image: url(./pexels-photo-326055.jpeg);
+
+}
+.group{
+    
+}
+.boxtext{
+    display: block;
+}
+.inputbox{
+    background-color: none;
+    border: none;
+    outline: none;
+}
+.btn{
+    
+}
